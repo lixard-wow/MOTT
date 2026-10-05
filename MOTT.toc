@@ -1,0 +1,16 @@
+## Interface: 120001
+## Title: Mark of the Tank
+## Notes: Smart Misdirection / Tricks of the Trade / Power Infusion macro helper. /mott to configure.
+## Author: Lixard
+## Version: 1.0.0
+## X-Curse-Project-ID: 1508635
+## SavedVariablesPerCharacter: MOTT_DB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+Core.lua
+Tooltip.lua
+Config.lua
